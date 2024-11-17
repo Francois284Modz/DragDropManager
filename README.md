@@ -11,7 +11,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DragDropManager.git
+   git clone https://github.com/Francois284ModzDev/DragDropManager.git
    ```
 2. Add `DragDropManager.cs` to your Windows Forms project.
 
